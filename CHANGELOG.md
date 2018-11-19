@@ -8,6 +8,6 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### Features
 
-* Adicionado o .gitignore no projeot. ([def151a](https://github.com/danielso2007/leitura_arquivo_node/commit/def151a))
+* Adicionado o .gitignore no projeto. ([def151a](https://github.com/danielso2007/leitura_arquivo_node/commit/def151a))
 * Adicionado o standard-version. ([6761f80](https://github.com/danielso2007/leitura_arquivo_node/commit/6761f80))
 * Projeto inicial. ([4db6899](https://github.com/danielso2007/leitura_arquivo_node/commit/4db6899))
