@@ -1,0 +1,13 @@
+# Change Log
+
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+<a name="1.0.0"></a>
+# 1.0.0 (2018-11-19)
+
+
+### Features
+
+* Adicionado o .gitignore no projeot. ([def151a](https://github.com/danielso2007/leitura_arquivo_node/commit/def151a))
+* Adicionado o standard-version. ([6761f80](https://github.com/danielso2007/leitura_arquivo_node/commit/6761f80))
+* Projeto inicial. ([4db6899](https://github.com/danielso2007/leitura_arquivo_node/commit/4db6899))
