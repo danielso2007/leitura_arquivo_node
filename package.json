@@ -4,7 +4,8 @@
   "description": "",
   "main": "ler_loto_facil.js",
   "scripts": {
-    "release": "standard-version"
+    "release": "standard-version",
+    "executar": "node ler_loto_facil.js"
   },
   "keywords": [],
   "author": "",
