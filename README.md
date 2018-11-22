@@ -38,7 +38,7 @@ _Algumas regras:_
 ### Gerando o CHANGELOG do projeto
 
 ```sh
-npm run release -- --release-as 1.0.0
+npm run release -- --release-as 1.2.0
 ```
 
 ### Referências:
