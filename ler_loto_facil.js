@@ -87,6 +87,9 @@ eachLine('./numeros.csv', function(line) {
     _15UltimosNumeros.push(listaChaves[x]);
   }
 
+  _15PrimeirosNumeros.sort((a,b) => a > b ? 1 : -1);
+  _15UltimosNumeros.sort((a,b) => a > b ? 1 : -1);
+
   console.log('Todos os números: ', _15MaisVotados.toString());
   console.log('Primeiros números: ', _15PrimeirosNumeros.toString());
   console.log('Últimos números  : ', _15UltimosNumeros.toString());
@@ -94,9 +97,6 @@ eachLine('./numeros.csv', function(line) {
   let jogo01 = '1,2,3,4,5,7,8,9,10,11,13,15,18,21,24';
   let jogo02 = '2,3,4,6,7,9,12,14,15,17,20,21,23,24,25';
   let jogo03 = '1,2,3,4,6,7,8,9,10,11,13,14,17,21,23';
-
-  _15PrimeirosNumeros.sort((a,b) => a > b ? 1 : -1);
-  _15UltimosNumeros.sort((a,b) => a > b ? 1 : -1);
 
   for ((value) of jogos) {
     if (value === _15PrimeirosNumeros.toString()) {
